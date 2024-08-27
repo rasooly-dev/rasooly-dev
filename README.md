@@ -19,8 +19,18 @@ Feel free to check out my **[website](https://rasooly.dev)** to explore my lates
 ### 📈 Statistics
 Here's a peek at my GitHub journey so far—I'm constantly exploring new tech and expanding my skillset! 
 
-![Abdulrasol's GitHub stats](https://github-readme-stats-weld-seven-88.vercel.app/api?username=rasooly-dev&show_icons=true&theme=github_dark_dimmed&hide=stars&show=prs_merged_percentage)
-![GitHub Streak](https://github-readme-streak-stats-sable-chi.vercel.app/?user=rasooly-dev&theme=github_dark_dimmed)
+<table>
+  <tr>
+    <td>
+       <img src="https://github-readme-stats-weld-seven-88.vercel.app/api?username=rasooly-dev&show_icons=true&theme=github_dark_dimmed&hide=stars&show=prs_merged_percentage" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats-sable-chi.vercel.app/?user=rasooly-dev&theme=github_dark_dimmed" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+<!-- ![Abdulrasol's GitHub stats](https://github-readme-stats-weld-seven-88.vercel.app/api?username=rasooly-dev&show_icons=true&theme=github_dark_dimmed&hide=stars&show=prs_merged_percentage)
+![GitHub Streak](https://github-readme-streak-stats-sable-chi.vercel.app/?user=rasooly-dev&theme=github_dark_dimmed) -->
 
 
 <!--
