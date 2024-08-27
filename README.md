@@ -17,15 +17,10 @@ Feel free to check out my **[website](https://rasooly.dev)** to explore my lates
 
 ---
 ### 📈 Statistics
-Here's a peek at my GitHub journey so far—I'm constantly exploring new tech and expanding my skillset! 
+Here's a peek at my GitHub journey so far—I'm constantly exploring new tech and expanding my skillset!
 
-<p align="center">
-  <img src="https://github-readme-stats-weld-seven-88.vercel.app/api?username=rasooly-dev&show_icons=true&theme=github_dark_dimmed&hide=stars&show=prs_merged_percentage" alt="GitHub Stats" style="max-width: 49%;" />
-  <img src="https://github-readme-streak-stats-sable-chi.vercel.app/?user=rasooly-dev&theme=github_dark_dimmed" alt="GitHub Streak" style="max-width: 49%;" />
-</p>
-
-<!-- ![Abdulrasol's GitHub stats](https://github-readme-stats-weld-seven-88.vercel.app/api?username=rasooly-dev&show_icons=true&theme=github_dark_dimmed&hide=stars&show=prs_merged_percentage)
-![GitHub Streak](https://github-readme-streak-stats-sable-chi.vercel.app/?user=rasooly-dev&theme=github_dark_dimmed) -->
+![Abdulrasol's GitHub stats](https://github-readme-stats-weld-seven-88.vercel.app/api?username=rasooly-dev&show_icons=true&theme=github_dark_dimmed&hide=stars&show=prs_merged_percentage)
+![GitHub Streak](https://github-readme-streak-stats-sable-chi.vercel.app/?user=rasooly-dev&theme=github_dark_dimmed)
 
 
 <!--
